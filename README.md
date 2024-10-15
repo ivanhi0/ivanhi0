@@ -2,7 +2,7 @@
 - 👀 I’m interested in Dev-ops
 - 🌱 I’m currently learning nothing
 - 💞️ I’m not looking to collaborate
-- 📫 You can reach me until I setup mail server
+- 📫 You can't reach me until I setup mail server
 
 <!---
 ivanhi0/ivanhi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
